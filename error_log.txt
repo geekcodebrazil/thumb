@@ -1,0 +1,1 @@
+[19-Apr-2025 00:20:07 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/u553509521/domains/gk.app.br/public_html/app/thumb/index.php on line 450
